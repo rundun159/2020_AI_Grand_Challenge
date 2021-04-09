@@ -8,7 +8,9 @@ I did EDA, pre-processing, trained model, and implemented the total pipeline wit
 I trained single-label classifiers and tried some methodologies to make it perform better.
 I added certificate pdf in 'certificate' directory.
 </h6>
+
 <hr>
+
 ## Sample input images and outputs
 
 <h4>Sample1</h4>
