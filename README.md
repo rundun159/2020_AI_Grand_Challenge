@@ -8,3 +8,18 @@ I did EDA, pre-processing, trained model, and implemented the total pipeline wit
 I trained single-label classifiers and tried some methodologies to make it perform better.
 I added certificate pdf in 'certificate' directory.
 </h6>
+<hr>
+## Sample input images and outputs
+
+<h4>Sample1</h4>
+<h5>Input Image</h5>
+<img src='Examples/GOPR5653.jpg' width=500px  >
+<h5>Ouput : Paper, Plastic</h5>
+<h4>Sample2</h4>
+<h5>Input Image</h5>
+<img src='Examples/GOPR5807.jpg' width=500px>
+<h5>Ouput : Paper</h5>
+<h4>Sample3</h4>
+<h5>Input Image</h5>
+<img src='Examples/GOPR5821.jpg' width=500px>
+<h5>Ouput : Can, Plastic</h5>
