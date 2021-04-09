@@ -25,3 +25,14 @@ I added certificate pdf in 'certificate' directory.
 <h5>Input Image</h5>
 <img src='Examples/GOPR5821.jpg' width=500px>
 <h5>Ouput : Can, Plastic</h5>
+
+## Object Detection Sample
+
+<h5>Input Image</h5>
+<img src='Examples/input_ex.png' width=150px  >
+
+
+<h5>Detection Results</h5>
+<img src='Examples/detect1.png' width=150px  >
+<img src='Examples/detect2.png' width=150px  >
+<img src='Examples/input_ex.png' width=150px  >
