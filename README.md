@@ -3,11 +3,11 @@
 
 I participated in the computer vision competition of that in 1st and 2nd round as a member of Computer vision start-up, 'Nuvi Lab'. And won <b>5th and 3rd winner</b> in each round.
 
-<h5>
+<h4>
 I did EDA, pre-processing, trained model, and implemented the total pipeline with other members.<br>
 I trained single-label classifiers and tried some methodologies to make it perform better.
 I added certificate pdf in 'certificate' directory.
-</h5>
+</h4>
 
 <hr>
 
