@@ -39,5 +39,5 @@ I added certificate pdf in 'certificate' directory.
 
 
 ## WanDB Training Graph Example
-<img src='Examples/wandb.jpg' width=150px  >
+<img src='Examples/wandb.jpg' width=500px  >
 
